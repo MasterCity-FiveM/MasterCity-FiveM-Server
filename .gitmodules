@@ -1,3 +1,6 @@
 [submodule "[others]/bob74_ipl"]
 	path = [others]/bob74_ipl
 	url = https://github.com/MasterCity-FiveM/bob74_ipl
+[submodule "[base]/async"]
+	path = [base]/async
+	url = https://github.com/MasterCity-FiveM/async
