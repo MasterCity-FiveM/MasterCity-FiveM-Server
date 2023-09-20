@@ -22,3 +22,6 @@
 [submodule "[base]/mysql-async"]
 	path = [base]/mysql-async
 	url = https://github.com/MasterCity-FiveM/mysql-async
+[submodule "[MasterkinG32]/vSync"]
+	path = [MasterkinG32]/vSync
+	url = https://github.com/MasterCity-FiveM/vSync
