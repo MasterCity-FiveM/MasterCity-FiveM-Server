@@ -7,3 +7,18 @@
 [submodule "[base]/cron"]
 	path = [base]/cron
 	url = https://github.com/MasterCity-FiveM/cron
+[submodule "[base]/esx_addonaccount"]
+	path = [base]/esx_addonaccount
+	url = https://github.com/MasterCity-FiveM/esx_addonaccount
+[submodule "[base]/esx_addoninventory"]
+	path = [base]/esx_addoninventory
+	url = https://github.com/MasterCity-FiveM/esx_addoninventory
+[submodule "[base]/esx_datastore"]
+	path = [base]/esx_datastore
+	url = https://github.com/MasterCity-FiveM/esx_datastore
+[submodule "[base]/esx_status"]
+	path = [base]/esx_status
+	url = https://github.com/MasterCity-FiveM/esx_status
+[submodule "[base]/mysql-async"]
+	path = [base]/mysql-async
+	url = https://github.com/MasterCity-FiveM/mysql-async
