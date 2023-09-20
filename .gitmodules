@@ -4,3 +4,6 @@
 [submodule "[base]/async"]
 	path = [base]/async
 	url = https://github.com/MasterCity-FiveM/async
+[submodule "[base]/cron"]
+	path = [base]/cron
+	url = https://github.com/MasterCity-FiveM/cron
